@@ -1,9 +1,9 @@
 {
     "GPOnlyTraffic" : "false",
-    "max_only" : "false",
-    "max_inter_enable" : "false",
-    "max_inter_id": "",
-    "max_inter_id2": "",
+    "max_only" : "true",
+    "max_inter_enable" : "true",
+    "max_inter_id": "29e906191e926a74",
+    "max_inter_id2": "29e906191e926a74",
     "interstitial_step":"1",
     "update_active" : "false",
     "updateTITLE" : "Fall Guys - New Version",
