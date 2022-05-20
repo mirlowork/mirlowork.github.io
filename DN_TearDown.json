@@ -1,5 +1,5 @@
 {
-    "GPOnlyTraffic" : "false",
+    "GPOnlyTraffic" : "true",
     "max_only" : "true",
     "max_inter_enable" : "true",
     "max_inter_id": "29e906191e926a74",
